@@ -1,2 +1,2 @@
 **Usage** 
-> import Boost libaray and compile it on Visual Stduio.
+> gmake on UNIX to compile
