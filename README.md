@@ -1,2 +1,2 @@
 **Usage** 
-> import Boost libaray and compile it at Visual Stduio.
+> import Boost libaray and compile it on Visual Stduio.
